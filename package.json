@@ -1,0 +1,11 @@
+{
+  "name": "zuri_portfolio_task",
+  "version": "1.0.0",
+  "description": "This is a Zuri Portfolio Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Maximus Isaac",
+  "license": "ISC"
+}
